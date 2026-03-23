@@ -1,4 +1,4 @@
-Todo App（React + TypeScript）
+Todo App（React + TypeScript / Tailwind CSS）
 
 ■ 概要
 
