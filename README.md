@@ -6,7 +6,7 @@ Todo App（React + TypeScript / Tailwind CSS）
 
 ■ URL
 
-https://codesandbox.io/p/sandbox/react-typescript-forked-nnwxt6
+https://nnwxt6.csb.app/
 
 ■ 機能
 
